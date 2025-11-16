@@ -27,3 +27,4 @@ To analyze performance, the training history is plotted using accuracy and loss 
 Task 3 demonstrates core deep learning concepts and provides practical experience with CNN architectures, making it an essential part of understanding machine learning for images.
 
 # OUTPUT
+<img width="1035" height="481" alt="Image" src="https://github.com/user-attachments/assets/12c277ac-eb65-4cab-b0b1-969706c0f83c" />
